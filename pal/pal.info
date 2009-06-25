@@ -1,0 +1,7 @@
+PRGNAM="pal"
+VERSION="0.4.2"
+HOMEPAGE="http://palcal.sourceforge.net/"
+DOWNLOAD="http://prdownloads.sourceforge.net/palcal/pal-0.4.2.tgz"
+MD5SUM="1b2fd84871f6ba4b47ab47d8f91a3826"
+MAINTAINER="Bruno Coimbra"
+EMAIL="bbcoimbra@gmail.com"
