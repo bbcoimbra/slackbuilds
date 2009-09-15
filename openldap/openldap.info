@@ -1,0 +1,7 @@
+PRGNAM="openldap"
+VERSION="2.4.18"
+HOMEPAGE="http://www.openldap.org/"
+DOWNLOAD="ftp://ftp.openldap.org/pub/OpenLDAP/openldap-release/openldap-2.4.18.tgz"
+MD5SUM="fecd7a64b6d9a0eb79b817d2562956ed"
+MAINTAINER="Bruno Coimbra"
+EMAIL="bbcoimbra@gmail.com"
