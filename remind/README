@@ -1,0 +1,10 @@
+Remind
+
+Remind is a sophisticated calendar and alarm program.
+
+Build instructions:
+
+1) Edit the file "custom.h" according to your preferences.
+2) Edit the file "lang.h" to choose a language.
+3) Execute the SlackBuild script.
+

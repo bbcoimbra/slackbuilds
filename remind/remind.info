@@ -1,0 +1,7 @@
+PRGNAM="remind"
+VERSION="03.07.07"
+HOMEPAGE="http://www.roaringpenguin.com/products/remind"
+DOWNLOAD="http://www.roaringpenguin.com/files/download/remind-03.01.07.tar.gz"
+MD5SUM="9335189e78a11b78d848aeade30058d6"
+MAINTAINER="Bruno Coimbra"
+EMAIL="bbcoimbra@gmail.com"
